@@ -1,0 +1,15 @@
+team: Leopards
+
+manager: Luke
+
+members:
+- Linda
+- William
+- David
+<<<<<<< HEAD
+- Olivia
+=======
+
+coath:
+- Oscar
+>>>>>>> add-coach
